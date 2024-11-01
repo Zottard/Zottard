@@ -76,7 +76,11 @@
 ### Contatos: 
 <p align='left'>
    <a href="https://www.linkedin.com/in/nicolas-agustin-rosso-fortini-070b88252/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>&nbsp;&nbsp;      
- <a href="https://github.com/UjwalKandi" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:nicolas.rossofor@gmail.com"></a>&nbsp;&nbsp;
- </p>
+<a href="mailto:nicolas.rossofor@gmail.com" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:nicolas.rossofor@gmail.com">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Zottard" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white">
+</a> </p>
 
  ------
